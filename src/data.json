@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "date": "10/14/2019",
+            "thumbnail": "./images/post1Pic.jpg",
+            "headerPic": "",
+            "shortdesc": "What does it mean to be a Dataist?",
+            "link": "/post1",
+            "title": "What is Dataism?",
+            "content":"<BlogPost1 />",
+            "author": "Data Drone 0"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+.headerImage{
+    max-height:20em;
+    min-width: 100%;
+    object-fit: cover;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
